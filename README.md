@@ -12,7 +12,7 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Actua
 - **Institución**: I.E Las Nieves
 
 #### 💡 Proyectos
-- **Proyecto 1**: Matemmáticas Divertidas - Esta es una pagina web para desarrollar el pensamiento de los alumnos del quinto grado de primaria
+- **Proyecto 1**: Matemmáticas Divertidas - Esta es una pagina web para desarrollar el pensamiento en el área matemáticas de los alumnos del quinto grado de primaria de la I.E Las Nieves
 
 
 #### 🌱 Objetivos
