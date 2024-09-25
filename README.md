@@ -5,14 +5,14 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Actua
 #### 🚀 Habilidades
 - **Lenguajes**: Aprendiendo Python, JavaScript y HTML/CSS.
 - **Herramientas**: Git, GitHub, VS Code.
-- **Áreas de Interés**: Desarrollo web, ciencia de datos, y automatización.
+- **Áreas de Interés**: Desarrollo de Software, ciencia de datos, y cyberseguridad.
 
 #### 🎓 Educación
-- **Curso actual**: Actualmente estoy en grado 10 de secundaria
+- **Curso actual**: Actualmente en grado 10 de Bachillerato
 - **Institución**: I.E Las Nieves
 
 #### 💡 Proyectos
-- **Proyecto 1**: Matemmáticas Divertidas - Esta es una pagina web para desarrollar el pensamiento en el área matemáticas de los alumnos del quinto grado de primaria de la I.E Las Nieves
+- **Proyecto 1**: Matemáticas Divertidas - Esta es una pagina web para desarrollar el pensamiento en el área matemáticas de los alumnos del quinto grado de primaria de la I.E Las Nieves
 
 
 #### 🌱 Objetivos
