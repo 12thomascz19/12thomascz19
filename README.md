@@ -3,8 +3,8 @@
 Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Actualmente, estoy dando mis primeros pasos en el mundo de la programación y el desarrollo de software.
 
 #### 🚀 Habilidades
-- **Lenguajes**: Aprendiendo Python, JavaScript y HTML/CSS.
-- **Herramientas**: Git, GitHub, VS Code.
+- **Lenguajes**: Aprendiendo Java, JavaScript y React.
+- **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA.
 - **Áreas de Interés**: Desarrollo de Software, ciencia de datos, y cyberseguridad.
 
 #### 🎓 Educación
