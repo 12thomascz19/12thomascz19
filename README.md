@@ -5,10 +5,10 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Actua
 #### 🚀 Habilidades
 - **Lenguajes**: Aprendiendo Java, JavaScript y React.
 - **Herramientas**: Git, GitHub, VS Code, IntelliJ IDEA.
-- **Áreas de Interés**: Desarrollo de Software, ciencia de datos, y cyberseguridad.
+- **Áreas de Interés**: Desarrollo de Software.
 
 #### 🎓 Educación
-- **Curso actual**: Actualmente en grado 10 de Bachillerato
+- **Curso actual**: Actualmente en grado 11 de Bachillerato
 - **Institución**: I.E Las Nieves
 
 #### 💡 Proyectos
