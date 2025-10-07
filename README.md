@@ -1,6 +1,7 @@
 ### 👋 ¡Hola! Soy Thomás
 
 Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Actualmente, estoy dando mis primeros pasos en el mundo de la programación y el desarrollo de software.
+        ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 #### 🚀 Habilidades
 - **Lenguajes**: Aprendiendo Java, JavaScript y React.
